@@ -6,7 +6,7 @@ This repository contains all the source code, exploratory data analysis (EDA) no
 
 * **Vo Gia Minh**
 * **Nguyen Phung Trung Nguyen**
-* **Pham Duc Chuong**
+* **Pham Phuc Cam Chuong**
 * **Than Hoang Anh Vu**
 
 ## Repository Structure
